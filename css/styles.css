@@ -1,0 +1,40 @@
+#header-nav {
+	background-color : maroon;
+	border-radius: 0;
+	border: 0;
+	}
+
+.row-content {
+	background-color: gray;
+	height : 1000px;
+	color: white;
+	}
+
+.food-font {
+	font-size: 30px;
+	color: yellow;
+	}
+
+body {
+	background-color: black;
+	}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+	color: yellow;
+	}
+
+#nav-list {
+
+	text-align: center;
+
+	}
+
+.text-center {
+  text-align: center;
+}
+
+.dropdown {
+	background-color: black;
+
+	}
